@@ -1,0 +1,13 @@
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.exe.config
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.exe
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\bin\Debug\OgrenciKayıtSistemi.pdb
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.formAnaSayfa.resources
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.formOgrDuzenle.resources
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.formOgrEkle.resources
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.formOgrListele.resources
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.formOgrSil.resources
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.Properties.Resources.resources
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.exe
+C:\Users\Feyza\source\repos\OgrenciKayıtSistemi\obj\Debug\OgrenciKayıtSistemi.pdb
